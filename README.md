@@ -4,7 +4,10 @@ First install the Mysql connector using pip:
 ```
 pip install mysql-connector-python
 ```
-Second step is to import the database file to your Phpmyadmin after opening a server, in my case I used wampserver
+After opening a server, in my case I used wampserver.
+
+Second step is to import the database file registration.sql to phpmyadmin.
+
 Third step is to run the project using:
 ```
 py main.py
